@@ -1,4 +1,4 @@
-/* Q1:How many unique cities does the data have? */
+/* Q1:How many unique cities does the data have? */ 
 select distinct(city)
 from sales
 
